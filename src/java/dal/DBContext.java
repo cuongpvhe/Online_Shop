@@ -27,7 +27,13 @@ public class DBContext {
     private final String userID = "sa";
     private final String password = "123";
 
-    
+//    public static void main(String[] args){
+//        try{
+//            System.out.println(new DBContext().getConnection());
+//        }catch(Exception ex){
+//            
+//        }
+//    }
  
     
 }
